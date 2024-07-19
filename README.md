@@ -57,3 +57,11 @@ Open the object_detection.ipynb notebook.
 4. **Video Detection**:
 
 - Click on video detection and the application will detect objects in the video.
+
+## Screenshots
+
+![main-page](screenshots/main-page.png)
+![sample](screenshots/street_detected.jpg)
+![sample2](screenshots/cars_detect.jpg)
+![sample3](screenshots/image3_output.jpg)
+![sample4](screenshots/image2_output.jpg)
