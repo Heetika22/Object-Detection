@@ -60,8 +60,12 @@ Open the object_detection.ipynb notebook.
 
 ## Screenshots
 
-![main-page](screenshots/main-page.png)
-![sample](screenshots/street_detected.jpg)
-![sample2](screenshots/cars_detect.jpg)
-![sample3](screenshots/image3_output.jpg)
-![sample4](screenshots/image2_output.jpg)
+<img src="./screenshots/main-page.png" width="700" height="400" alt="Main Screen">
+
+<img src="./screenshots/street_detected.jpg" width="700" height="400"  alt="Sample 1">
+
+<img src="./screenshots/cars_detect.jpg" width="700" height="400"  alt="Sample 2">
+
+<img src="./screenshots/image3_output.jpg" width="700" height="400"  alt="Sample 3">
+
+<img src="./screenshots/image2_output.jpg" width="700" height="400"  alt="Sample 4">
