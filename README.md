@@ -67,5 +67,3 @@ Open the object_detection.ipynb notebook.
 <img src="./screenshots/cars_detect.jpg" width="700" height="400"  alt="Sample 2">
 
 <img src="./screenshots/image3_output.jpg" width="700" height="400"  alt="Sample 3">
-
-<img src="./screenshots/image2_output.jpg" width="700" height="400"  alt="Sample 4">
